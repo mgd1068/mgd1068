@@ -1,48 +1,45 @@
 # Mathias Grün-Drebes
 
-Senior Infrastructure Engineer with over 25 years of experience in large-scale telecommunications and platform infrastructure.
+Senior Infrastructure Engineer with more than 25 years of experience in large-scale telecommunications and platform infrastructure.
 
-My work focuses on the design, operation and optimization of complex technical systems — ranging from IP telephony platforms serving millions of users to distributed lab infrastructures used for the development and testing of broadband customer devices.
+My work focuses on designing, building and operating complex technical systems – from IP telephony platforms serving millions of users to distributed lab infrastructures used for broadband device development and testing.
 
-## Professional Focus
+## Core Expertise
 
 - Infrastructure engineering for large-scale systems
 - Broadband access technologies (DSL / FTTH)
 - Network and lab infrastructure for router and CPE development
-- Linux-based operational platforms
-- Monitoring, observability and automation
-- Operational tooling for infrastructure environments
+- Linux-based infrastructure platforms
+- Monitoring, observability and operational tooling
+- Automation and system diagnostics
 - AI-assisted analysis of operational and test data
 
-## Current Work
+## Professional Background
 
-Currently working on infrastructure for broadband device development environments, including distributed lab networks and large-scale test setups used for firmware development and validation of customer-premises equipment.
+I have spent most of my career working in large telecommunications environments where reliability, scalability and operational visibility are critical.
+
+My experience includes:
+
+- IP telephony platforms serving tens of millions of customers
+- development of anti-abuse systems for telecom services
+- integration of telecom functionality into large customer platforms
+- design and operation of distributed hardware test labs
+- monitoring and automation tooling for infrastructure environments
+
+Currently I am working on network and lab infrastructure used for broadband device development, including large-scale router test environments and household simulation labs.
 
 ## Selected Projects
 
 ### OLT-MSAN-Monitor
-Lightweight monitoring and diagnostic tool for broadband access infrastructure components such as OLT and MSAN systems.
+Operational monitoring tool for broadband access infrastructure.  
+The tool polls OLT and MSAN devices via SSH, normalizes operational data and exposes it through a lightweight web interface and JSON API for lab monitoring and troubleshooting.
 
 ### CV
-This repository contains my professional CV in Markdown form with automated PDF generation via GitHub Actions.
+My professional CV maintained in Markdown and automatically rendered to PDF via GitHub Actions.
 
-## Technical Interests
+### FB7590Trafficmonitor
+Small monitoring utility used to analyze traffic patterns on a FritzBox-based lab environment.
 
-- Infrastructure automation
-- network engineering
-- monitoring and observability
-- lab environments for hardware development
-- homelab infrastructure and experimentation
+## Interests
 
-## Background
-
-My career started in mechanical engineering before transitioning into IT and infrastructure engineering. This background shaped my approach to complex systems: understanding how they behave, how they fail, and how to keep them running reliably.
-
----
-
-GitHub is mainly used here to publish small tools, operational utilities and documentation related to infrastructure and lab environments.
-
-<!---
-mgd1068/mgd1068 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Outside of professional work I maintain a small homelab environment used for experimentation with network technologies, virtualization and infrastructure automation.
